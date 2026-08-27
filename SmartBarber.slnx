@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="SmartBarber.API/SmartBarber.API.csproj" />
+  <Project Path="SmartBarber.Application.Test/SmartBarber.Application.Test.csproj" Id="1f9f9cba-17e6-4b80-aaed-2011145040ff" />
+  <Project Path="SmartBarber.Application/SmartBarber.Application.csproj" />
+  <Project Path="SmartBarber.Domain.Tests/SmartBarber.Domain.Tests.csproj" />
+  <Project Path="SmartBarber.Domain/SmartBarber.Domain.csproj" />
+  <Project Path="SmartBarber.Infrastructure.Test/SmartBarber.Infrastructure.Test.csproj" Id="b9b2535c-4649-4aac-abd0-037a4f83cb3e" />
+  <Project Path="SmartBarber.Infrastructure/SmartBarber.Infrastructure.csproj" />
+</Solution>
